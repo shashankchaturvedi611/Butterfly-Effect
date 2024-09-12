@@ -8,3 +8,6 @@ Example:
 The Lorenz attractor, which you saw in the animation, is a classic example of the butterfly effect. It was discovered by meteorologist Edward Lorenz while studying weather patterns. He found that small rounding errors in his computer simulations led to drastically different weather predictions, highlighting the inherent unpredictability of weather systems.
 
 The butterfly effect underscores the complexity and interconnectedness of systems, reminding us that small actions can have far-reaching consequences.
+
+Increase the number of steps for long simulations
+The code will create a .mp4 file for visualization of the Butterfly effect
