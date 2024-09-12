@@ -10,4 +10,4 @@ The Lorenz attractor, which you saw in the animation, is a classic example of th
 The butterfly effect underscores the complexity and interconnectedness of systems, reminding us that small actions can have far-reaching consequences.
 
 Increase the number of steps for long simulations
-The code will create a .mp4 file for visualization of the Butterfly effect
+The code will create a .mp4 file for visualization of the Butterfly effect.
